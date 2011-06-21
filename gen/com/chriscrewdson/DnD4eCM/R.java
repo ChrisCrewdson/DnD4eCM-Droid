@@ -15,12 +15,13 @@ public final class R {
     }
     public static final class id {
         public static final int centerPanel=0x7f050002;
-        public static final int combatantDescription=0x7f050007;
+        public static final int combatantDescription=0x7f050008;
+        public static final int effects=0x7f050005;
         public static final int leftPanel=0x7f050000;
-        public static final int moreTasks=0x7f050004;
-        public static final int powerDescription=0x7f050008;
-        public static final int powerList=0x7f050005;
-        public static final int rightPanel=0x7f050006;
+        public static final int navigation=0x7f050004;
+        public static final int powerDescription=0x7f050009;
+        public static final int powerList=0x7f050006;
+        public static final int rightPanel=0x7f050007;
         public static final int rosterView=0x7f050001;
         public static final int tasks=0x7f050003;
     }
